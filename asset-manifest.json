@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-form-data-to-table/static/css/main.7e092c38.css",
+    "main.js": "/react-form-data-to-table/static/js/main.7477b5ec.js",
+    "index.html": "/react-form-data-to-table/index.html",
+    "main.7e092c38.css.map": "/react-form-data-to-table/static/css/main.7e092c38.css.map",
+    "main.7477b5ec.js.map": "/react-form-data-to-table/static/js/main.7477b5ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e092c38.css",
+    "static/js/main.7477b5ec.js"
+  ]
+}
